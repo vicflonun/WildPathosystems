@@ -1,0 +1,177 @@
+full_name	strain_id	type	host	treatment	time	file	id.1	consecutive	primer	well	plate	tophit	genus	phylotype	OTU_match2	OTU_match
+Ac.t0.AP1	ac1	bacteria	Aegilops.cylindrica	mock	t0	ac1_16S-341-F_A01_Plate1.fsta	ac1	1	16S-341-F	A01	Plate1.fsta	NR_151902.1	Paenibacillus	Pae_1	OTU_757	OTU_757
+Ac.m.t2.E	ac10	bacteria	Aegilops.cylindrica	mock	t2	ac10_16S-341-F_B02_Plate1.fsta	ac10	10	16S-341-F	B02	Plate1.fsta	NR_029319.1	Pseudomonas	Pse_1	OTU_36	OTU_36
+Ac.5.t2.AJ	ac100	bacteria	Aegilops.cylindrica	zt549	t2	ac100_16S-341-F_E01_Plate2.fsta	ac100	100	16S-341-F	E01	Plate2.fsta	NR_119107.1	Rhodococcus	Rcc_1	OTU_9131	OTU_9131
+Ac.5.t2.AK	ac101	bacteria	Aegilops.cylindrica	zt549	t2	ac101_16S-341-F_F01_Plate2.fsta	ac101	101	16S-341-F	F01	Plate2.fsta	NR_042693.1	Agrococcus	Agr_1	NA	OTU_67
+Ac.5.t2.AL	ac102	bacteria	Aegilops.cylindrica	zt549	t2	ac102_16S-341-F_G01_Plate2.fsta	ac102	102	16S-341-F	G01	Plate2.fsta	NR_119163.1	Terrabacter	Ter_1	OTU_310 OTU_5852	OTU_5852
+Ac.5.t2.AM	ac103	bacteria	Aegilops.cylindrica	zt549	t2	ac103_16S-341-F_H01_Plate2.fsta	ac103	103	16S-341-F	H01	Plate2.fsta	NR_041332.1	Microbacterium	Mic_1	OTU_2992	OTU_2992
+Ac.5.t4.A	ac104	bacteria	Aegilops.cylindrica	zt549	t4	ac104_16S-341-F_A02_Plate2.fsta	ac104	104	16S-341-F	A02	Plate2.fsta	NR_029319.1	Pseudomonas	Pse_1	OTU_36	OTU_36
+Ac.5.t4.C	ac105	bacteria	Aegilops.cylindrica	zt549	t4	ac105_16S-341-F_B02_Plate2.fsta	ac105	105	16S-341-F	B02	Plate2.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.5.t4.D	ac106	bacteria	Aegilops.cylindrica	zt549	t4	ac106_16S-341-F_C02_Plate2.fsta	ac106	106	16S-341-F	C02	Plate2.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Ac.5.t4.E	ac107	bacteria	Aegilops.cylindrica	zt549	t4	ac107_16S-341-F_D02_Plate2.fsta	ac107	107	16S-341-F	D02	Plate2.fsta	NR_115455.1	Streptomyces	Str_1	NA	OTU_2129
+Ac.5.t4.F	ac108	bacteria/actino	Aegilops.cylindrica	zt549	t4	ac108_16S-341-F_E02_Plate2.fsta	ac108	108	16S-341-F	E02	Plate2.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.5.t4.I	ac109	bacteria	Aegilops.cylindrica	zt549	t4	ac109_16S-341-F_F02_Plate2.fsta	ac109	109	16S-341-F	F02	Plate2.fsta	NR_041545.1	Arthrobacter	Art_1	OTU_97	OTU_97
+Ac.m.t2.Q	ac11	bacteria	Aegilops.cylindrica	mock	t2	ac11_16S-341-F_C02_Plate1.fsta	ac11	11	16S-341-F	C02	Plate1.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.5.t4.J	ac110	bacteria	Aegilops.cylindrica	zt549	t4	ac110_16S-341-F_G02_Plate2.fsta	ac110	110	16S-341-F	G02	Plate2.fsta	NR_026468.1	Microbacterium	Mic_3	OTU_855	OTU_855
+Ac.5.t4.L	ac111	bacteria	Aegilops.cylindrica	zt549	t4	ac111_16S-341-F_H02_Plate2.fsta	ac111	111	16S-341-F	H02	Plate2.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Ac.5.t4.M	ac112	bacteria	Aegilops.cylindrica	zt549	t4	A11_ac112_095.ab1	ac112	112	16S-341-F	A11	Florian	NR_134088.1	Micrococcus	Mcc_1	OTU_395	OTU_395
+Ac.5.t4.N	ac113	bacteria/actino	Aegilops.cylindrica	zt549	t4	B11_ac113_093.ab1	ac113	113	16S-341-F	B11	Florian	NR_134088.1	Streptomyces	Str_2	NA	OTU_196
+Ac.5.t4.S	ac114	bacteria	Aegilops.cylindrica	zt549	t4	ac114_16S-341-F_C03_Plate2.fsta	ac114	114	16S-341-F	C03	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Ac.5.t4.AI	ac115	bacteria	Aegilops.cylindrica	zt549	t4	ac115_16S-341-F_D03_Plate2.fsta	ac115	115	16S-341-F	D03	Plate2.fsta	NR_109733.1	Mycolicibacterium	Myc_1	OTU_1753 OTU_213 OTU_592 OTU_787 OTU_9031	OTU_1753
+Ac.5.t7.A	ac116	bacteria	Aegilops.cylindrica	zt549	t7	ac116_16S-341-F_E03_Plate2.fsta	ac116	116	16S-341-F	E03	Plate2.fsta	NR_180597.1	Pseudomonas	Pse_2	OTU_37	OTU_37
+Ac.5.t7.C	ac117	bacteria	Aegilops.cylindrica	zt549	t7	ac117_16S-341-F_F03_Plate2.fsta	ac117	117	16S-341-F	F03	Plate2.fsta	NR_116299.1	Pseudomonas	Pse_3	OTU_2979 OTU_341 OTU_4786 OTU_596	OTU_596
+Ac.5.t7.O	ac119	bacteria	Aegilops.cylindrica	zt549	t7	ac119_16S-341-F_G03_Plate2.fsta	ac119	119	16S-341-F	G03	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Ac.m.t4.A	ac12	bacteria	Aegilops.cylindrica	mock	t4	ac12_16S-341-F_D02_Plate1.fsta	ac12	12	16S-341-F	D02	Plate1.fsta	NR_029319.1	Pseudomonas	Pse_1	OTU_36	OTU_36
+Ac.5.t7.P	ac120	bacteria	Aegilops.cylindrica	zt549	t7	ac120_16S-341-F_H03_Plate2.fsta	ac120	120	16S-341-F	H03	Plate2.fsta	NR_026468.1	Microbacterium	Mic_3	OTU_855	OTU_855
+Ac.5.t7.R	ac121	bacteria	Aegilops.cylindrica	zt549	t7	ac121_16S-341-F_A04_Plate2.fsta	ac121	121	16S-341-F	A04	Plate2.fsta	NR_133746.1	Flavobacterium	Fla_1	OTU_1202 OTU_2470 OTU_344	OTU_2470
+Ac.5.t7.S	ac122	bacteria	Aegilops.cylindrica	zt549	t7	ac122_16S-341-F_B04_Plate2.fsta	ac122	122	16S-341-F	B04	Plate2.fsta	NR_181639.1	Streptomyces	Str_3	OTU_196 OTU_5941	OTU_5941
+Ac.m.t4.C	ac13	bacteria	Aegilops.cylindrica	mock	t4	ac13_16S-341-F_E02_Plate1.fsta	ac13	13	16S-341-F	E02	Plate1.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.m.t4.D	ac14	bacteria	Aegilops.cylindrica	mock	t4	ac14_16S-341-F_F02_Plate1.fsta	ac14	14	16S-341-F	F02	Plate1.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Ac.m.t4.E	ac15	bacteria/actino	Aegilops.cylindrica	mock	t4	C11_ac15_091.ab1	ac15	15	16S-341-F	C11	Florian	NR_114986.1	Microbacterium	Mic_4	NA	OTU_216
+Ac.m.t4.F	ac16	bacteria	Aegilops.cylindrica	mock	t4	ac16_16S-341-F_H02_Plate1.fsta	ac16	16	16S-341-F	H02	Plate1.fsta	NR_114986.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.m.t4.I	ac18	bacteria	Aegilops.cylindrica	mock	t4	ac18_16S-341-F_B03_Plate1.fsta	ac18	18	16S-341-F	B03	Plate1.fsta	NR_043663.1	Leifsonia	Lei_1	OTU_3241 OTU_463 OTU_6155	OTU_3241
+Ac.m.t4.J	ac19	bacteria	Aegilops.cylindrica	mock	t4	ac19_16S-341-F_C03_Plate1.fsta	ac19	19	16S-341-F	C03	Plate1.fsta	NR_179382.1	Pseudomonas	Pse_4	OTU_3344 OTU_399 OTU_81	OTU_81
+Ac.t0.AP2	ac2	bacteria	Aegilops.cylindrica	mock	t0	ac2_16S-341-F_B01_Plate1.fsta	ac2	2	16S-341-F	B01	Plate1.fsta	NR_163642.1	Paenibacillus	Pae_3	OTU_285	OTU_285
+Ac.m.t4.K	ac20	bacteria	Aegilops.cylindrica	mock	t4	ac20_16S-341-F_D03_Plate1.fsta	ac20	20	16S-341-F	D03	Plate1.fsta	NR_042189.1	Paenibacillus	Pae_4	OTU_8877	OTU_8877
+Ac.m.t4.T	ac21	bacteria	Aegilops.cylindrica	mock	t4	ac21_16S-341-F_E03_Plate1.fsta	ac21	21	16S-341-F	E03	Plate1.fsta	NR_179772.1	Aestuariimicrobium	Aes_1	OTU_2173	OTU_2173
+Ac.m.t4.Z	ac22	bacteria	Aegilops.cylindrica	mock	t4	ac22_16S-341-F_F03_Plate1.fsta	ac22	22	16S-341-F	F03	Plate1.fsta	NR_178782.1	Paenibacillus	Pae_5	OTU_325	OTU_325
+Ac.m.t4.AC	ac23	bacteria	Aegilops.cylindrica	mock	t4	D11_ac23_089.ab1	ac23	23	16S-341-F	D11	Florian	NR_042391.1	Williamsa	Wil_1	OTU_2283	OTU_2283
+Ac.m.t4.AE	ac24	bacteria	Aegilops.cylindrica	mock	t4	ac24_16S-341-F_H03_Plate1.fsta	ac24	24	16S-341-F	H03	Plate1.fsta	NR_125644.1	Frondihabitans	Fro_1	OTU_244	OTU_244
+Ac.m.t4.AF	ac25	bacteria	Aegilops.cylindrica	mock	t4	ac25_16S-341-F_A04_Plate1.fsta	ac25	25	16S-341-F	A04	Plate1.fsta	NR_108122.1	Luteimicrobium	Lut_1	OTU_139 OTU_1442 OTU_2949 OTU_3276 OTU_4787	OTU_2949
+Ac.m.t4.AG	ac26	bacteria/actino	Aegilops.cylindrica	mock	t4	ac26_16S-341-F_B04_Plate1.fsta	ac26	26	16S-341-F	B04	Plate1.fsta	NR_181890.1	Pseudomonas	Pse_5	OTU_11248 OTU_13 OTU_2692 OTU_74	OTU_74
+Ac.m.t7.A	ac27	bacteria	Aegilops.cylindrica	mock	t7	ac27_16S-341-F_C04_Plate1.fsta	ac27	27	16S-341-F	C04	Plate1.fsta	NR_029319.1	Pseudomonas	Pse_1	OTU_36	OTU_36
+Ac.m.t7.B	ac28	bacteria	Aegilops.cylindrica	mock	t7	ac28_16S-341-F_D04_Plate1.fsta	ac28	28	16S-341-F	D04	Plate1.fsta	NR_137214.1	Flavobacterium	Fla_2	OTU_2008	OTU_2008
+Ac.m.t7.C	ac29	bacteria	Aegilops.cylindrica	mock	t7	ac29_16S-341-F_E04_Plate1.fsta	ac29	29	16S-341-F	E04	Plate1.fsta	NR_180012.1	Rheinheimera	Rhe_1	OTU_147	OTU_147
+Ac.t0.AP3	ac3	bacteria	Aegilops.cylindrica	mock	t0	ac3_16S-341-F_C01_Plate1.fsta	ac3	3	16S-341-F	C01	Plate1.fsta	NR_044403.1	Paenibacillus	Pae_6	OTU_450 OTU_708	OTU_450
+Ac.m.t7.E	ac30	bacteria	Aegilops.cylindrica	mock	t7	ac30_16S-341-F_F04_Plate1.fsta	ac30	30	16S-341-F	F04	Plate1.fsta	NR_116299.1	Pseudomonas	Pse_6	OTU_10374 OTU_1237 OTU_23 OTU_428 OTU_5220 OTU_6330 OTU_698 OTU_7881 OTU_9790	OTU_698
+Ac.m.t7.F	ac31	bacteria	Aegilops.cylindrica	mock	t7	ac31_16S-341-F_G04_Plate1.fsta	ac31	31	16S-341-F	G04	Plate1.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Ac.m.t7.G	ac32	bacteria	Aegilops.cylindrica	mock	t7	ac32_16S-341-F_H04_Plate1.fsta	ac32	32	16S-341-F	H04	Plate1.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Ac.m.t7.H	ac33	bacteria	Aegilops.cylindrica	mock	t7	ac33_16S-341-F_A05_Plate1.fsta	ac33	33	16S-341-F	A05	Plate1.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.m.t7.I	ac34	bacteria	Aegilops.cylindrica	mock	t7	ac34_16S-341-F_B05_Plate1.fsta	ac34	34	16S-341-F	B05	Plate1.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.m.t7.J	ac35	bacteria	Aegilops.cylindrica	mock	t7	ac35_16S-341-F_C05_Plate1.fsta	ac35	35	16S-341-F	C05	Plate1.fsta	NR_153665.1	Sphingomonas	Sph_1	OTU_174	OTU_174
+Ac.m.t7.K	ac36	bacteria	Aegilops.cylindrica	mock	t7	ac36_16S-341-F_D05_Plate1.fsta	ac36	36	16S-341-F	D05	Plate1.fsta	NR_114855.1	Acidovorax	Aci_1	OTU_1533 OTU_1669 OTU_282 OTU_533 OTU_6929	OTU_533
+Ac.m.t7.L	ac37	bacteria	Aegilops.cylindrica	mock	t7	ac37_16S-341-F_E05_Plate1.fsta	ac37	37	16S-341-F	E05	Plate1.fsta	NR_026468.1	Microbacterium	Mic_3	OTU_855	OTU_855
+Ac.m.t7.O	ac39	bacteria	Aegilops.cylindrica	mock	t7	ac39_16S-341-F_G05_Plate1.fsta	ac39	39	16S-341-F	G05	Plate1.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Ac.t0.AP4	ac4	bacteria	Aegilops.cylindrica	mock	t0	ac4_16S-341-F_D01_Plate1.fsta	ac4	4	16S-341-F	D01	Plate1.fsta	NR_116517.1	Paenibacillus	Pae_5	OTU_325	OTU_325
+Ac.m.t7.Q	ac40	bacteria	Aegilops.cylindrica	mock	t7	ac40_16S-341-F_H05_Plate1.fsta	ac40	40	16S-341-F	H05	Plate1.fsta	NR_116517.1	Paenibacillus	Pae_5	OTU_325	OTU_325
+Ac.4.t2.C	ac41	bacteria	Aegilops.cylindrica	zt469	t2	ac41_16S-341-F_A06_Plate1.fsta	ac41	41	16S-341-F	A06	Plate1.fsta	NR_116299.1	Pseudomonas	Pse_3	OTU_2979 OTU_341 OTU_4786 OTU_596	OTU_596
+Ac.4.t2.D	ac42	bacteria	Aegilops.cylindrica	zt469	t2	ac42_16S-341-F_B06_Plate1.fsta	ac42	42	16S-341-F	B06	Plate1.fsta	NR_029319.1	Pseudomonas	Pse_1	OTU_36	OTU_36
+Ac.4.t2.H	ac43	bacteria	Aegilops.cylindrica	zt469	t2	ac43_16S-341-F_C06_Plate1.fsta	ac43	43	16S-341-F	C06	Plate1.fsta	NR_145886.1	Rhodococcus	Rcc_4	NA	OTU_140
+Ac.4.t2.L	ac44	bacteria	Aegilops.cylindrica	zt469	t2	ac44_16S-341-F_D06_Plate1.fsta	ac44	44	16S-341-F	D06	Plate1.fsta	NR_040800.1	Vogesella	Vog_1	OTU_212	OTU_212
+Ac.4.t2.M	ac45	bacteria	Aegilops.cylindrica	zt469	t2	ac45_16S-341-F_E06_Plate1.fsta	ac45	45	16S-341-F	E06	Plate1.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.4.t2.N	ac46	bacteria	Aegilops.cylindrica	zt469	t2	ac46_16S-341-F_F06_Plate1.fsta	ac46	46	16S-341-F	F06	Plate1.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.4.t2.Q	ac47	bacteria	Aegilops.cylindrica	zt469	t2	ac47_16S-341-F_G06_Plate1.fsta	ac47	47	16S-341-F	G06	Plate1.fsta	NR_114342.1	Microbacterium	Mic_5	OTU_5167 OTU_6340	OTU_6340
+Ac.4.t2.R	ac48	bacteria	Aegilops.cylindrica	zt469	t2	ac48_16S-341-F_H06_Plate1.fsta	ac48	48	16S-341-F	H06	Plate1.fsta	NR_026163.1	Microbacterium	Mic_6	NA	OTU_216
+Ac.4.t2.U	ac49	bacteria	Aegilops.cylindrica	zt469	t2	ac49_16S-341-F_A07_Plate1.fsta	ac49	49	16S-341-F	A07	Plate1.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Ac.t0.LP1	ac5	bacteria/actino	Aegilops.cylindrica	mock	t0	ac5_16S-341-F_E01_Plate1.fsta	ac5	5	16S-341-F	E01	Plate1.fsta	NR_115717.1	Streptomyces	Str_4	NA	OTU_2129
+Ac.4.t2.X	ac50	bacteria/actino	Aegilops.cylindrica	zt469	t2	2ac50_16S-341-F_F12_Plate2.fsta	ac50	50	16S-341-F	F12	Plate2.fsta	NR_115455.1	Streptomyces	Str_5	NA	OTU_2129
+Ac.4.t2.Y	ac51	bacteria	Aegilops.cylindrica	zt469	t2	ac51_16S-341-F_C07_Plate1.fsta	ac51	51	16S-341-F	C07	Plate1.fsta	NR_044802.1	Castellaniella	Cas_1	NA	NA
+Ac.4.t2.Z	ac52	bacteria	Aegilops.cylindrica	zt469	t2	ac52_16S-341-F_D07_Plate1.fsta	ac52	52	16S-341-F	D07	Plate1.fsta	NR_115033.1	Frigoribacterium	Fro_1	OTU_244	OTU_244
+Ac.4.t2.AB	ac53	bacteria/actino	Aegilops.cylindrica	zt469	t2	ac53_16S-341-F_E07_Plate1.fsta	ac53	53	16S-341-F	E07	Plate1.fsta	NR_119240.1	Pseudonocardia	Psn_1	OTU_357	OTU_357
+Ac.4.t2.AC	ac54	bacteria/actino	Aegilops.cylindrica	zt469	t2	2ac54_16S-341-F_G12_Plate2.fsta	ac54	54	16S-341-F	G12	Plate2.fsta	NR_115717.1	Streptomyces	Str_6	OTU_2129	OTU_2129
+Ac.4.t2.AE	ac55	bacteria	Aegilops.cylindrica	zt469	t2	ac55_16S-341-F_G07_Plate1.fsta	ac55	55	16S-341-F	G07	Plate1.fsta	NR_175585.1	Sphingomonas	Sph_2	OTU_161 OTU_3890 OTU_860	OTU_860
+Ac.4.t2.AG	ac56	bacteria	Aegilops.cylindrica	zt469	t2	ac56_16S-341-F_H07_Plate1.fsta	ac56	56	16S-341-F	H07	Plate1.fsta	NR_113586.1	Brevundimonas	Bre_1	OTU_1626	OTU_1626
+Ac.4.t2.AH	ac57	bacteria	Aegilops.cylindrica	zt469	t2	ac57_16S-341-F_A08_Plate1.fsta	ac57	57	16S-341-F	A08	Plate1.fsta	NR_026163.1	Microbacterium	Mic_6	NA	OTU_216
+Ac.4.t4.A	ac58	bacteria	Aegilops.cylindrica	zt469	t4	ac58_16S-341-F_B08_Plate1.fsta	ac58	58	16S-341-F	B08	Plate1.fsta	NR_029319.1	Pseudomonas	Pse_1	OTU_36	OTU_36
+Ac.4.t4.C	ac59	bacteria	Aegilops.cylindrica	zt469	t4	ac59_16S-341-F_C08_Plate1.fsta	ac59	59	16S-341-F	C08	Plate1.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.m.t2.A	ac6	bacteria	Aegilops.cylindrica	mock	t2	ac6_16S-341-F_F01_Plate1.fsta	ac6	6	16S-341-F	F01	Plate1.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Ac.4.t4.E	ac60	bacteria/actino	Aegilops.cylindrica	zt469	t4	ac60_16S-341-F_D08_Plate1.fsta	ac60	60	16S-341-F	D08	Plate1.fsta	NR_115455.1	Streptomyces	Str_1	NA	OTU_2129
+Ac.4.t4.F	ac61	bacteria	Aegilops.cylindrica	zt469	t4	ac61_16S-341-F_E08_Plate1.fsta	ac61	61	16S-341-F	E08	Plate1.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.4.t4.G	ac62	bacteria	Aegilops.cylindrica	zt469	t4	ac62_16S-341-F_F08_Plate1.fsta	ac62	62	16S-341-F	F08	Plate1.fsta	NR_116299.1	Pseudomonas	Pse_3	OTU_2979 OTU_341 OTU_4786 OTU_596	OTU_596
+Ac.4.t4.I	ac64	bacteria	Aegilops.cylindrica	zt469	t4	ac64_16S-341-F_H08_Plate1.fsta	ac64	64	16S-341-F	H08	Plate1.fsta	NR_181605.1	Curtobacterium	Cur_2	NA	OTU_67
+Ac.4.t4.J	ac65	bacteria	Aegilops.cylindrica	zt469	t4	ac65_16S-341-F_A09_Plate1.fsta	ac65	65	16S-341-F	A09	Plate1.fsta	NR_179382.1	Pseudomonas	Pse_4	OTU_3344 OTU_399 OTU_81	OTU_81
+Ac.4.t4.K	ac66	bacteria	Aegilops.cylindrica	zt469	t4	ac66_16S-341-F_B09_Plate1.fsta	ac66	66	16S-341-F	B09	Plate1.fsta	NR_114194.1	Pseudomonas	Pse_2	OTU_37	OTU_37
+Ac.4.t4.L	ac67	bacteria	Aegilops.cylindrica	zt469	t4	ac67_16S-341-F_C09_Plate1.fsta	ac67	67	16S-341-F	C09	Plate1.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Ac.4.t4.O	ac68	bacteria	Aegilops.cylindrica	zt469	t4	ac68_16S-341-F_D09_Plate1.fsta	ac68	68	16S-341-F	D09	Plate1.fsta	NR_117785.1	Pedobacter	Ped_1	OTU_383 OTU_5599 OTU_8247	OTU_5599
+Ac.4.t4.P	ac69	bacteria	Aegilops.cylindrica	zt469	t4	ac69_16S-341-F_E09_Plate1.fsta	ac69	69	16S-341-F	E09	Plate1.fsta	NR_042434.1	Rhodanobacter	Rho_1	OTU_125	OTU_125
+Ac.m.t2.B	ac7	bacteria	Aegilops.cylindrica	mock	t2	ac7_16S-341-F_G01_Plate1.fsta	ac7	7	16S-341-F	G01	Plate1.fsta	NR_111998.1	Pantoea	Pan_1	OTU_35	OTU_35
+Ac.4.t4.Q	ac70	bacteria	Aegilops.cylindrica	zt469	t4	ac70_16S-341-F_F09_Plate1.fsta	ac70	70	16S-341-F	F09	Plate1.fsta	NR_114855.1	Acidovorax	Aci_1	OTU_1533 OTU_1669 OTU_282 OTU_533 OTU_6929	OTU_533
+Ac.4.t4.R	ac71	bacteria	Aegilops.cylindrica	zt469	t4	ac71_16S-341-F_G09_Plate1.fsta	ac71	71	16S-341-F	G09	Plate1.fsta	NR_040800.1	Vogesella	Vog_1	OTU_212	OTU_212
+Ac.4.t4.S	ac72	bacteria	Aegilops.cylindrica	zt469	t4	ac72_16S-341-F_H09_Plate1.fsta	ac72	72	16S-341-F	H09	Plate1.fsta	NR_041546.1	Arthrobacter	Art_1	OTU_97	OTU_97
+Ac.4.t4.W	ac73	bacteria	Aegilops.cylindrica	zt469	t4	ac73_16S-341-F_A10_Plate1.fsta	ac73	73	16S-341-F	A10	Plate1.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.4.t4.X	ac74	bacteria	Aegilops.cylindrica	zt469	t4	ac74_16S-341-F_B10_Plate1.fsta	ac74	74	16S-341-F	B10	Plate1.fsta	NR_114231.1	Rhodanobacter	Rho_2	OTU_10074	OTU_125
+Ac.4.t4.Y	ac75	bacteria	Aegilops.cylindrica	zt469	t4	ac75_16S-341-F_C10_Plate1.fsta	ac75	75	16S-341-F	C10	Plate1.fsta	NR_026468.1	Microbacterium	Mic_3	OTU_855	OTU_855
+Ac.4.t4.AA	ac76	bacteria	Aegilops.cylindrica	zt469	t4	ac76_16S-341-F_D10_Plate1.fsta	ac76	76	16S-341-F	D10	Plate1.fsta	NR_125644.1	Frondihabitans	Fro_1	OTU_244	OTU_244
+Ac.4.t4.AE	ac77	bacteria	Aegilops.cylindrica	zt469	t4	ac77_16S-341-F_E10_Plate1.fsta	ac77	77	16S-341-F	E10	Plate1.fsta	NR_178602.1	Arthrobacter	Art_1	OTU_97	OTU_97
+Ac.4.t7.A	ac78	bacteria	Aegilops.cylindrica	zt469	t7	ac78_16S-341-F_F10_Plate1.fsta	ac78	78	16S-341-F	F10	Plate1.fsta	NR_109024.1	Flavobacterium	Fla_3	OTU_1799 OTU_44	OTU_44
+Ac.m.t2.C	ac8	bacteria	Aegilops.cylindrica	mock	t2	ac8_16S-341-F_H01_Plate1.fsta	ac8	8	16S-341-F	H01	Plate1.fsta	NR_116299.1	Pseudomonas	Pse_3	OTU_2979 OTU_341 OTU_4786 OTU_596	OTU_596
+Ac.4.t7.E	ac80	bacteria	Aegilops.cylindrica	zt469	t7	ac80_16S-341-F_H10_Plate1.fsta	ac80	80	16S-341-F	H10	Plate1.fsta	NR_116299.1	Pseudomonas	Pse_3	OTU_2979 OTU_341 OTU_4786 OTU_596	OTU_596
+Ac.4.t7.U	ac81	bacteria	Aegilops.cylindrica	zt469	t7	ac81_16S-341-F_A11_Plate1.fsta	ac81	81	16S-341-F	A11	Plate1.fsta	NR_028929.1	Pseudomonas	Pse_5	OTU_11248 OTU_13 OTU_2692 OTU_74	OTU_74
+Ac.4.t7.V	ac82	bacteria	Aegilops.cylindrica	zt469	t7	ac82_16S-341-F_B11_Plate1.fsta	ac82	82	16S-341-F	B11	Plate1.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.5.t2.A	ac83	bacteria	Aegilops.cylindrica	zt549	t2	ac83_16S-341-F_C11_Plate1.fsta	ac83	83	16S-341-F	C11	Plate1.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Ac.5.t2.E	ac84	bacteria	Aegilops.cylindrica	zt549	t2	ac84_16S-341-F_D11_Plate1.fsta	ac84	84	16S-341-F	D11	Plate1.fsta	NR_149794.1	Flavobacterium	Fla_3	OTU_1799 OTU_44	OTU_44
+Ac.5.t2.F	ac85	bacteria	Aegilops.cylindrica	zt549	t2	ac85_16S-341-F_E11_Plate1.fsta	ac85	85	16S-341-F	E11	Plate1.fsta	NR_109024.1	Flavobacterium	Fla_3	OTU_1799 OTU_44	OTU_44
+Ac.5.t2.I	ac86	bacteria	Aegilops.cylindrica	zt549	t2	ac86_16S-341-F_F11_Plate1.fsta	ac86	86	16S-341-F	F11	Plate1.fsta	NR_145953.1	Flavobacterium	Fla_4	OTU_290 OTU_339	OTU_339
+Ac.5.t2.J	ac87	bacteria	Aegilops.cylindrica	zt549	t2	ac87_16S-341-F_G11_Plate1.fsta	ac87	87	16S-341-F	G11	Plate1.fsta	NR_114342.1	Microbacterium	Mic_7	NA	OTU_216
+Ac.5.t2.M	ac88	bacteria	Aegilops.cylindrica	zt549	t2	ac88_16S-341-F_H11_Plate1.fsta	ac88	88	16S-341-F	H11	Plate1.fsta	NR_181874.1	Curtobacterium	Cur_1	OTU_67	OTU_67
+Ac.5.t2.R	ac89	bacteria	Aegilops.cylindrica	zt549	t2	ac89_16S-341-F_A12_Plate1.fsta	ac89	89	16S-341-F	A12	Plate1.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Ac.m.t2.D	ac9	bacteria	Aegilops.cylindrica	mock	t2	ac9_16S-341-F_A02_Plate1.fsta	ac9	9	16S-341-F	A02	Plate1.fsta	NR_179382.1	Pseudomonas	Pse_4	OTU_3344 OTU_399 OTU_81	OTU_81
+Ac.5.t2.S	ac90	bacteria	Aegilops.cylindrica	zt549	t2	ac90_16S-341-F_B12_Plate1.fsta	ac90	90	16S-341-F	B12	Plate1.fsta	NR_149794.1	Flavobacterium	Fla_5	NA	NA
+Ac.5.t2.T	ac91	bacteria	Aegilops.cylindrica	zt549	t2	ac91_16S-341-F_C12_Plate1.fsta	ac91	91	16S-341-F	C12	Plate1.fsta	NR_113586.1	Brevundimonas	Bre_1	OTU_1626	OTU_1626
+Ac.5.t2.U	ac92	bacteria	Aegilops.cylindrica	zt549	t2	ac92_16S-341-F_D12_Plate1.fsta	ac92	92	16S-341-F	D12	Plate1.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Ac.5.t2.V	ac93	bacteria	Aegilops.cylindrica	zt549	t2	ac93_16S-341-F_E12_Plate1.fsta	ac93	93	16S-341-F	E12	Plate1.fsta	NR_024759.1	Paenibacillus	Pae_2	OTU_573	OTU_573
+Ac.5.t2.W	ac94	bacteria	Aegilops.cylindrica	zt549	t2	ac94_16S-341-F_F12_Plate1.fsta	ac94	94	16S-341-F	F12	Plate1.fsta	NR_117266.1	Microbacterium	Mic_3	OTU_855	OTU_855
+Ac.5.t2.Y	ac95	bacteria	Aegilops.cylindrica	zt549	t2	ac95_16S-341-F_G12_Plate1.fsta	ac95	95	16S-341-F	G12	Plate1.fsta	NR_114855.1	Acidovorax	Aci_2	OTU_56	OTU_56
+Ac.5.t2.AA	ac96	bacteria	Aegilops.cylindrica	zt549	t2	ac96_16S-341-F_A01_Plate2.fsta	ac96	96	16S-341-F	A01	Plate2.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Ac.5.t2.AB	ac97	bacteria	Aegilops.cylindrica	zt549	t2	ac97_16S-341-F_B01_Plate2.fsta	ac97	97	16S-341-F	B01	Plate2.fsta	NR_178602.1	Arthrobacter	Art_1	OTU_97	OTU_97
+Ac.5.t2.AE	ac98	bacteria	Aegilops.cylindrica	zt549	t2	ac98_16S-341-F_C01_Plate2.fsta	ac98	98	16S-341-F	C01	Plate2.fsta	NR_175585.1	Sphingomonas	Sph_2	OTU_161 OTU_3890 OTU_860	OTU_860
+Ac.5.t2.AI	ac99	bacteria	Aegilops.cylindrica	zt549	t2	ac99_16S-341-F_D01_Plate2.fsta	ac99	99	16S-341-F	D01	Plate2.fsta	NR_170399.1	Arthrobacter	Art_2	NA	OTU_97
+Hm.t0.AP1	hm1	bacteria	Hordeum.murinum	mock	t0	hm1_16S-341-F_C04_Plate2.fsta	hm1	1	16S-341-F	C04	Plate2.fsta	NR_115455.1	Streptomyces	Str_1	NA	OTU_2129
+Hm.Mock.t2.F	hm10	bacteria	Hordeum.murinum	mock	t2	hm10_16S-341-F_D05_Plate2.fsta	hm10	10	16S-341-F	D05	Plate2.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Hm.Mock.t2.G	hm11	bacteria	Hordeum.murinum	mock	t2	hm11_16S-341-F_E05_Plate2.fsta	hm11	11	16S-341-F	E05	Plate2.fsta	NR_179653.1	Achromobacter	Ach_1	OTU_284	OTU_284
+Hm.Mock.t2.H	hm12	bacteria	Hordeum.murinum	mock	t2	hm12_16S-341-F_F05_Plate2.fsta	hm12	12	16S-341-F	F05	Plate2.fsta	NR_180524.1	Nocardioides	Noc_1	OTU_166 OTU_6129 OTU_7503	OTU_166
+Hm.Mock.t2.I	hm13	bacteria	Hordeum.murinum	mock	t2	hm13_16S-341-F_G05_Plate2.fsta	hm13	13	16S-341-F	G05	Plate2.fsta	NR_114986.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Hm.Mock.t2.J	hm14	bacteria	Hordeum.murinum	mock	t2	hm14_16S-341-F_H05_Plate2.fsta	hm14	14	16S-341-F	H05	Plate2.fsta	NR_156815.1	Pseudomonas	Pse_7	OTU_3343 OTU_370 OTU_8742	OTU_370
+Hm.Mock.t2.L	hm16	bacteria	Hordeum.murinum	mock	t2	hm16_16S-341-F_B06_Plate2.fsta	hm16	16	16S-341-F	B06	Plate2.fsta	NR_026468.1	Microbacterium	Mic_3	OTU_855	OTU_855
+Hm.Mock.t2.M	hm17	bacteria	Hordeum.murinum	mock	t2	hm17_16S-341-F_C06_Plate2.fsta	hm17	17	16S-341-F	C06	Plate2.fsta	NR_043315.1	Brevundimonas	Bre_2	OTU_122	OTU_122
+Hm.Mock.t2.N	hm18	bacteria	Hordeum.murinum	mock	t2	hm18_16S-341-F_D06_Plate2.fsta	hm18	18	16S-341-F	D06	Plate2.fsta	NR_026163.1	Microbacterium	Mic_8	NA	OTU_6340
+Hm.Mock.t2.O	hm19	bacteria	Hordeum.murinum	mock	t2	hm19_16S-341-F_E06_Plate2.fsta	hm19	19	16S-341-F	E06	Plate2.fsta	NR_170463.1	Mesorhizobium	Mes_1	OTU_792	OTU_792
+Hm.t0.AP2	hm2	bacteria	Hordeum.murinum	mock	t0	hm2_16S-341-F_D04_Plate2.fsta	hm2	2	16S-341-F	D04	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Mock.t2.P	hm20	bacteria/actino	Hordeum.murinum	mock	t2	hm20_16S-341-F_F06_Plate2.fsta	hm20	20	16S-341-F	F06	Plate2.fsta	NR_115455.1	Streptomyces	Str_1	NA	OTU_2129
+Hm.Mock.t2.Q	hm21	bacteria/actino	Hordeum.murinum	mock	t2	hm21_16S-341-F_G06_Plate2.fsta	hm21	21	16S-341-F	G06	Plate2.fsta	NR_115717.1	Streptomyces	Str_7	NA	OTU_2129
+Hm.Mock.t2.Y	hm22	bacteria	Hordeum.murinum	mock	t2	hm22_16S-341-F_H06_Plate2.fsta	hm22	22	16S-341-F	H06	Plate2.fsta	NR_108516.1	Bosea	Bos_1	OTU_431	OTU_431
+Hm.Zpa796.t2.E	hm23	bacteria	Hordeum.murinum	zpa796	t2	hm23_16S-341-F_A07_Plate2.fsta	hm23	23	16S-341-F	A07	Plate2.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Hm.Zpa796.t2.M	hm24	bacteria	Hordeum.murinum	zpa796	t2	G11_hm24_083.ab1	hm24	24	16S-341-F	G11	Florian	NR_115031.1	Leifsonia	Lei_2	NA	NA
+Hm.Zpa796.t2.N	hm25	bacteria	Hordeum.murinum	zpa796	t2	hm25_16S-341-F_C07_Plate2.fsta	hm25	25	16S-341-F	C07	Plate2.fsta	NR_043893.1	Salinibacterium	Sal_1	NA	OTU_67
+Hm.Zpa796.t2.R	hm26	bacteria	Hordeum.murinum	zpa796	t2	hm26_16S-341-F_D07_Plate2.fsta	hm26	26	16S-341-F	D07	Plate2.fsta	NR_112231.1	Methylorubrum	Met_1	OTU_454	OTU_454
+Hm.Zpa796.t2.S	hm27	bacteria	Hordeum.murinum	zpa796	t2	hm27_16S-341-F_E07_Plate2.fsta	hm27	27	16S-341-F	E07	Plate2.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Hm.Zpa796.t2.T	hm28	bacteria	Hordeum.murinum	zpa796	t2	hm28_16S-341-F_F07_Plate2.fsta	hm28	28	16S-341-F	F07	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Zpa796.t2.W	hm29	bacteria	Hordeum.murinum	zpa796	t2	hm29_16S-341-F_G07_Plate2.fsta	hm29	29	16S-341-F	G07	Plate2.fsta	NR_118233.1	Compostimonas	Sal_1	NA	OTU_67
+Hm.Zpa21.t2.K	hm30	bacteria	Hordeum.murinum	zpa21	t2	hm30_16S-341-F_H07_Plate2.fsta	hm30	30	16S-341-F	H07	Plate2.fsta	NR_043315.1	Brevundimonas	Bre_2	OTU_122	OTU_122
+Hm.Zpa21.t2.M	hm31	bacteria	Hordeum.murinum	zpa21	t2	hm31_16S-341-F_A08_Plate2.fsta	hm31	31	16S-341-F	A08	Plate2.fsta	NR_117776.1	Acidovorax	Aci_3	OTU_10937 OTU_1575 OTU_254 OTU_3304 OTU_4157 OTU_5601 OTU_7747	OTU_56
+Hm.Zpa21.t2.O	hm32	bacteria	Hordeum.murinum	zpa21	t2	hm32_16S-341-F_B08_Plate2.fsta	hm32	32	16S-341-F	B08	Plate2.fsta	NR_117231.1	Albibacterium	Alb_1	OTU_434	OTU_434
+Hm.Zpa21.t2.Y	hm34	bacteria	Hordeum.murinum	zpa21	t2	H11_hm34_081.ab1	hm34	34	16S-341-F	H11	Florian	NR_104936.1	Moraxella	Mor_1	OTU_394	OTU_394
+Hm.Mock.t4.B	hm37	bacteria	Hordeum.murinum	mock	t4	hm37_16S-341-F_F08_Plate2.fsta	hm37	37	16S-341-F	F08	Plate2.fsta	NR_114096.1	Neobacillus	Neo_1	OTU_198	OTU_198
+Hm.Mock.t4.C	hm38	bacteria	Hordeum.murinum	mock	t4	hm38_16S-341-F_G08_Plate2.fsta	hm38	38	16S-341-F	G08	Plate2.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Hm.t0.LP1	hm4	bacteria	Hordeum.murinum	mock	t0	hm4_16S-341-F_F04_Plate2.fsta	hm4	4	16S-341-F	F04	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Mock.t4.E	hm40		Hordeum.murinum	mock	t4	hm40_16S-341-F_H08_Plate2.fsta	hm40	40	16S-341-F	H08	Plate2.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140
+Hm.Mock.t4.F	hm41	bacteria	Hordeum.murinum	mock	t4	hm41_16S-341-F_A09_Plate2.fsta	hm41	41	16S-341-F	A09	Plate2.fsta	NR_116517.1	Paenibacillus	Pae_5	OTU_325	OTU_325
+Hm.Mock.t4.G	hm42	bacteria/actino	Hordeum.murinum	mock	t4	hm42_16S-341-F_B09_Plate2.fsta	hm42	42	16S-341-F	B09	Plate2.fsta	NR_115231.1	Streptomyces	Str_8	OTU_4909 OTU_6308	OTU_4909
+Hm.Zpa796.t4.I	hm43	bacteria/actino	Hordeum.murinum	zpa796	t4	hm43_16S-341-F_C09_Plate2.fsta	hm43	43	16S-341-F	C09	Plate2.fsta	NR_115455.1	Streptomyces	Str_1	NA	OTU_2129
+Hm.Zpa796.t4.J	hm44	bacteria	Hordeum.murinum	zpa796	t4	hm44_16S-341-F_D09_Plate2.fsta	hm44	44	16S-341-F	D09	Plate2.fsta	NR_181931.1	Streptomyces	Str_8	OTU_4909 OTU_6308	OTU_4909
+Hm.Zpa796.t4.K	hm45	bacteria	Hordeum.murinum	zpa796	t4	hm45_16S-341-F_E09_Plate2.fsta	hm45	45	16S-341-F	E09	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Zpa796.t4.M	hm47	bacteria	Hordeum.murinum	zpa796	t4	hm47_16S-341-F_G09_Plate2.fsta	hm47	47	16S-341-F	G09	Plate2.fsta	NR_181098.1	Paenibacillus	Pae_7	OTU_2800 OTU_693	OTU_2800
+Hm.Zpa796.t4.N	hm48	bacteria/actino	Hordeum.murinum	zpa796	t4	hm48_16S-341-F_H09_Plate2.fsta	hm48	48	16S-341-F	H09	Plate2.fsta	NR_112048.1	Streptomyces	Str_9	OTU_155 OTU_5371	OTU_155
+Hm.Zpa796.t4.O	hm49	bacteria	Hordeum.murinum	zpa796	t4	hm49_16S-341-F_A10_Plate2.fsta	hm49	49	16S-341-F	A10	Plate2.fsta	NR_043663.1	Leifsonia	Lei_1	OTU_3241 OTU_463 OTU_6155	OTU_3241
+Hm.Mock.t2.A	hm5	bacteria	Hordeum.murinum	mock	t2	hm5_16S-341-F_G04_Plate2.fsta	hm5	5	16S-341-F	G04	Plate2.fsta	NR_117103.1	Rhodococcus	Rcc_2	OTU_780	OTU_780
+Hm.Zpa796.t4.P	hm50	bacteria	Hordeum.murinum	zpa796	t4	hm50_16S-341-F_B10_Plate2.fsta	hm50	50	16S-341-F	B10	Plate2.fsta	NR_117618.1	Paenibacillus	Pae_8	NA	OTU_325
+Hm.Zpa21.t4.H	hm51	bacteria	Hordeum.murinum	zpa21	t4	hm51_16S-341-F_C10_Plate2.fsta	hm51	51	16S-341-F	C10	Plate2.fsta	NR_157609.1	Bacillus	Bac_1	OTU_206 OTU_3814 OTU_884	OTU_3814
+Hm.Mock.t7.A	hm52	bacteria	Hordeum.murinum	mock	t7	hm52_16S-341-F_D10_Plate2.fsta	hm52	52	16S-341-F	D10	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Mock.t7.B	hm53	bacteria	Hordeum.murinum	mock	t7	hm53_16S-341-F_E10_Plate2.fsta	hm53	53	16S-341-F	E10	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Mock.t7.C	hm54	bacteria	Hordeum.murinum	mock	t7	hm54_16S-341-F_F10_Plate2.fsta	hm54	54	16S-341-F	F10	Plate2.fsta	NR_116517.1	Paenibacillus	Pae_5	OTU_325	OTU_325
+Hm.Zpa796.t7.A	hm55	bacteria	Hordeum.murinum	zpa796	t7	hm55_16S-341-F_G10_Plate2.fsta	hm55	55	16S-341-F	G10	Plate2.fsta	NR_114096.1	Neobacillus	Neo_1	OTU_198	OTU_198
+Hm.Zpa796.t7.B	hm56	bacteria	Hordeum.murinum	zpa796	t7	hm56_16S-341-F_H10_Plate2.fsta	hm56	56	16S-341-F	H10	Plate2.fsta	NR_113853.2	Paenibacillus	Pae_2	OTU_573	OTU_573
+Hm.Zpa796.t7.D	hm57	bacteria	Hordeum.murinum	zpa796	t7	hm57_16S-341-F_A11_Plate2.fsta	hm57	57	16S-341-F	A11	Plate2.fsta	NR_115033.1	Frigoribacterium	Fro_1	OTU_244	OTU_244
+Hm.Zpa796.t7.F	hm59	bacteria	Hordeum.murinum	zpa796	t7	hm59_16S-341-F_C11_Plate2.fsta	hm59	59	16S-341-F	C11	Plate2.fsta	NR_026451.1	Kocuria	Koc_1	OTU_842	OTU_842
+Hm.Mock.t2.B	hm6	bacteria	Hordeum.murinum	mock	t2	hm6_16S-341-F_H04_Plate2.fsta	hm6	6	16S-341-F	H04	Plate2.fsta	NR_180420.1	Microbacterium	Mic_2	OTU_216	OTU_216
+Hm.Zpa796.t7.G	hm60	bacteria/actino	Hordeum.murinum	zpa796	t7	hm60_16S-341-F_D11_Plate2.fsta	hm60	60	16S-341-F	D11	Plate2.fsta	NR_159114.1	Streptomyces	Str_8	OTU_4909 OTU_6308	OTU_4909
+Hm.Zpa796.t7.H	hm61	bacteria	Hordeum.murinum	zpa796	t7	hm61_16S-341-F_E11_Plate2.fsta	hm61	61	16S-341-F	E11	Plate2.fsta	NR_179150.1	Paenibacillus	Pae_7	OTU_2800 OTU_693	OTU_2800
+Hm.Zpa21.t7.A	hm62	bacteria	Hordeum.murinum	zpa21	t7	hm62_16S-341-F_F11_Plate2.fsta	hm62	62	16S-341-F	F11	Plate2.fsta	NR_116299.1	Pseudomonas	Pse_6	OTU_10374 OTU_1237 OTU_23 OTU_428 OTU_5220 OTU_6330 OTU_698 OTU_7881 OTU_9790	OTU_698
+Hm.Zpa21.t7.B	hm63	bacteria	Hordeum.murinum	zpa21	t7	hm63_16S-341-F_G11_Plate2.fsta	hm63	63	16S-341-F	G11	Plate2.fsta	NR_156815.1	Pseudomonas	Pse_7	OTU_3343 OTU_370 OTU_8742	OTU_370
+Hm.Zpa21.t7.G	hm64	bacteria	Hordeum.murinum	zpa21	t7	hm64_16S-341-F_H11_Plate2.fsta	hm64	64	16S-341-F	H11	Plate2.fsta	NR_026194.1	Paenarthrobacter	Pah_1	OTU_185	OTU_185
+Hm.Zpa21.t7.H	hm65	bacteria	Hordeum.murinum	zpa21	t7	hm65_16S-341-F_A12_Plate2.fsta	hm65	65	16S-341-F	A12	Plate2.fsta	NR_116299.1	Pseudomonas	Pse_3	OTU_2979 OTU_341 OTU_4786 OTU_596	OTU_596
+Hm.Zpa21.t7.I	hm66	bacteria	Hordeum.murinum	zpa21	t7	hm66_16S-341-F_B12_Plate2.fsta	hm66	66	16S-341-F	B12	Plate2.fsta	NR_133727.1	Chryseobacterium	Chr_1	OTU_129	OTU_129
+Hm.Zpa21.t7.J	hm67	bacteria	Hordeum.murinum	zpa21	t7	hm67_16S-341-F_C12_Plate2.fsta	hm67	67	16S-341-F	C12	Plate2.fsta	NR_179509.1	Stenotrophomonas	Ste_1	OTU_3465 OTU_73	OTU_73
+Hm.Zpa21.t7.K	hm68	bacteria	Hordeum.murinum	zpa21	t7	hm68_16S-341-F_D12_Plate2.fsta	hm68	68	16S-341-F	D12	Plate2.fsta	NR_026194.1	Paenarthrobacter	Pah_1	OTU_185	OTU_185
+Hm.Mock.t2.C	hm7	bacteria	Hordeum.murinum	mock	t2	hm7_16S-341-F_A05_Plate2.fsta	hm7	7	16S-341-F	A05	Plate2.fsta	NR_043812.1	Pseudoxanthomonas	Psx_1	OTU_458	OTU_458
+Hm.Mock.t2.E	hm9	bacteria	Hordeum.murinum	mock	t2	hm9_16S-341-F_C05_Plate2.fsta	hm9	9	16S-341-F	C05	Plate2.fsta	NR_145886.1	Rhodococcus	Rcc_3	OTU_140	OTU_140

@@ -1,0 +1,377 @@
+strain.id	rep	top.growth	phenotype	colony.cm	halo.cm	intensity	cells.under	melanization	double.halo	observations	assay	rep
+ac1	1	1	I	0.50	0.50	B	0	NA	NA		7	rm
+ac1	2	1	I	0.50	0.50	B	0	NA	NA		7	rm
+ac1	3	1	I	0.50	0.50	B	0	NA	NA		7	rm
+ac100	1	1	P	0.40	1.60	S	0	NA	3.1		7	
+ac100	2	1	P	0.40	1.55	S	0	NA	3.25		7	
+ac100	3	1	P	0.45	1.55	S	0	NA	3.1		7	
+ac101	1	1	P	0.50	1.10	W	0	NA	NA		8	
+ac101	2	1	P	0.50	1.20	W	0	NA	NA		8	
+ac101	3	1	P	0.55	1.15	W	0	NA	NA		8	
+ac102	1	1	I	0.40	0.40	B	0	NA	NA		8	
+ac102	2	1	I	0.35	0.35	B	0	NA	NA		8	
+ac102	3	1	I	0.35	0.35	B	0	NA	NA		8	
+ac114	1	1	I	0.45	0.45	B	0	NA	NA		6	
+ac114	2	1	I	0.45	0.45	B	0	NA	NA		6	
+ac114	3	1	I	0.45	0.45	B	0	NA	NA		6	
+ac119	1	1	I	0.60	0.60	B	0	NA	NA		6	
+ac119	2	1	I	0.50	0.50	B	0	NA	NA		6	
+ac119	3	1	I	0.50	0.50	B	0	NA	NA		6	
+ac121	1	1	N	0.50	NA	NA	1	NA	NA		8	
+ac121	2	1	N	0.55	NA	NA	1	NA	NA		8	
+ac121	3	1	N	0.45	NA	NA	1	NA	NA		8	
+ac18	1	1	I	0.45	0.45	B	0	NA	NA		8	
+ac18	2	1	I	0.45	0.45	B	0	NA	NA		8	
+ac18	3	1	I	0.50	0.50	B	0	NA	NA		8	
+ac2	1	1	I	0.35	0.35	B	0	NA	NA		7	
+ac2	2	1	I	0.40	0.40	B	0	NA	NA		7	
+ac2	3	1	I	0.35	0.35	B	0	NA	NA		7	
+ac20	1	1	P	0.40	1.30	S	0	NA	NA		7	
+ac20	2	1	P	0.35	1.60	S	0	NA	NA		7	
+ac20	3	1	P	0.40	1.10	S	0	NA	NA		7	
+ac21	1	1	P	0.50	1.00	W	0	NA	NA		8	
+ac21	2	1	P	0.45	1.00	W	0	NA	NA		8	
+ac21	3	1	P	0.50	1.00	W	0	NA	NA		8	
+ac22	1	1	I	0.50	0.50	B	0	tiny spots	NA		6	rm
+ac22	2	1	I	0.50	0.50	B	0	tiny spots	NA		6	rm
+ac22	3	1	I	0.45	0.45	B	0	tiny spots	NA		6	rm
+ac24	1	1	I	0.45	1.15	W	0	NA	NA		8	
+ac24	2	1	I	0.45	1.20	W	0	NA	NA		8	
+ac24	3	1	I	0.50	1.25	W	0	NA	NA		8	
+ac25	1	1	P	0.35	0.85	S	0	NA	2.1	double weak	8	
+ac25	2	1	P	0.35	0.90	S	0	NA	2.25	double weak	8	
+ac25	3	1	P	0.35	0.95	S	0	NA	2.1	double weak	8	
+ac28	1	1	I	0.35	0.35	B	0	NA	NA		8	
+ac28	2	1	I	0.35	0.35	B	0	NA	NA		8	
+ac28	3	1	I	0.40	0.40	B	0	NA	NA		8	
+ac29	1	1	I	0.50	1.05	W	0	NA	NA		7	
+ac29	2	1	I	0.50	0.95	W	0	NA	NA		7	
+ac29	3	1	I	0.50	0.90	W	0	NA	NA		7	
+ac3	1	1	I	0.55	0.55	B	0	NA	NA		7	
+ac3	2	1	I	0.55	0.55	B	0	NA	NA		7	
+ac3	3	1	I	0.55	0.55	B	0	NA	NA		7	
+ac32	1	1	P	0.40	1.25	S	0	NA	2.6		7	
+ac32	2	1	P	0.45	1.50	S	0	NA	3		7	
+ac32	3	1	P	0.45	1.45	S	0	NA	3		7	
+ac35	1	1	I	0.50	0.50	B	0	NA	NA		8	
+ac35	2	1	I	0.50	0.50	B	0	NA	NA		8	
+ac35	3	1	I	0.50	0.50	B	0	NA	NA		8	
+ac36	1	1	P	0.45	1.50	W	0	NA	NA		7	
+ac36	2	1	P	0.45	1.55	W	0	NA	NA		7	
+ac36	3	1	P	0.50	1.65	W	0	NA	NA		7	
+ac39	1	1	I	0.55	0.55	B	0	behind colony	NA		6	
+ac39	2	1	I	0.50	0.50	B	0	behind colony	NA		6	
+ac39	3	1	I	0.45	0.45	B	0	behind colony	NA		6	
+ac4	1	1	I	0.50	0.50	B	0	NA	NA	repetir.not able	7	
+ac4	2	1	I	0.45	0.45	B	0	NA	NA	repetir.not able	7	
+ac4	3	1	I	0.50	0.50	B	0	NA	NA	repetir.not able	7	
+ac40	1	1	I	0.40	0.40	B	0	NA	NA		6	rm
+ac40	2	1	I	0.45	0.45	B	0	NA	NA		6	rm
+ac40	3	1	I	0.50	0.50	B	0	NA	NA		6	rm
+ac49	1	1	P	0.45	1.30	S	0	NA	NA		7	
+ac49	2	1	P	0.45	1.20	S	0	NA	NA		7	
+ac49	3	1	P	0.40	1.25	S	0	NA	NA		7	
+ac5	1	1	P	0.40	1.70	W	1	NA	NA		7	
+ac5	2	1	P	0.45	1.65	W	1	NA	NA		7	
+ac5	3	1	P	0.35	1.65	W	1	NA	NA		7	
+ac51	1	1	I	0.50	0.50	B	0	NA	NA		7	
+ac51	2	1	I	0.55	0.55	B	0	NA	NA		7	
+ac51	3	1	I	0.55	0.55	B	0	NA	NA		7	
+ac52	1	1	P	0.45	3.10	W	0	colony edge	NA		8	
+ac52	2	1	P	0.50	3.10	W	0	colony edge	NA		8	
+ac52	3	1	P	0.45	3.00	W	0	colony edge	NA		8	
+ac53	1	1	N	0.45	NA	NA	1	NA	NA		8	
+ac53	2	1	N	0.40	NA	NA	1	NA	NA		8	
+ac53	3	1	N	0.40	NA	NA	1	NA	NA		8	
+ac54	1	1	P	0.45	2.00	W	1	NA	NA		7	
+ac54	2	1	P	0.40	2.70	W	1	NA	NA		7	
+ac54	3	1	P	0.35	2.50	W	1	NA	NA		7	
+ac55	1	1	I	0.50	0.50	B	0	NA	NA	very fainthed growth	8	rm
+ac55	2	1	I	0.55	0.55	B	0	NA	NA	very fainthed growth	8	rm
+ac55	3	1	I	0.55	0.55	B	0	NA	NA	very fainthed growth	8	rm
+ac57	1	1	P	0.50	2.90	W	0	NA	NA		7	
+ac57	2	1	P	0.45	2.85	W	0	NA	NA		7	
+ac57	3	1	P	0.50	3.00	W	0	NA	NA		7	
+ac63	1	1	N	0.35	NA	NA	1	NA	NA		8	
+ac63	2	1	N	0.30	NA	NA	1	NA	NA		8	
+ac63	3	1	N	0.35	NA	NA	1	NA	NA		8	
+ac68	1	1	I	0.55	0.55	B	0	NA	NA		7	
+ac68	2	1	I	0.55	0.55	B	0	NA	NA		7	
+ac68	3	1	I	0.65	0.65	B	0	NA	NA		7	
+ac70	1	1	P	0.40	0.75	S	0	NA	3.7		7	
+ac70	2	1	P	0.40	0.80	S	0	NA	3.45		7	
+ac70	3	1	P	0.40	0.80	S	0	NA	3.55		7	
+ac76	1	1	I	0.45	0.90	W	0	NA	NA		8	
+ac76	2	1	I	0.45	0.85	W	0	NA	NA		8	
+ac76	3	1	I	0.50	0.85	W	0	NA	NA		8	
+ac78	1	1	I	0.40	0.40	B	0	NA	NA		8	
+ac78	2	1	I	0.35	0.35	B	0	NA	NA		8	
+ac78	3	1	I	0.40	0.40	B	0	NA	NA		8	
+ac84	1	1	P	0.40	1.45	S	1	NA	NA	overgrew zymo	8	
+ac84	2	1	P	0.40	1.25	S	1	NA	NA	overgrew zymo	8	
+ac84	3	1	P	0.40	1.35	S	1	NA	NA	overgrew zymo	8	
+ac85	1	1	I	0.40	0.40	B	0	NA	NA		8	
+ac85	2	1	I	0.35	0.35	B	0	NA	NA		8	
+ac85	3	1	I	0.40	0.40	B	0	NA	NA		8	
+ac86	1	1	P	0.45	1.25	S	1	NA	NA	overgrew zymo	8	
+ac86	2	1	P	0.45	1.50	S	1	NA	NA	overgrew zymo	8	
+ac86	3	1	P	0.50	1.40	S	1	NA	NA	overgrew zymo	8	
+ac90	1	1	I	0.45	0.45	B	0	NA	NA		8	
+ac90	2	1	I	0.45	0.45	B	0	NA	NA		8	
+ac90	3	1	I	0.50	0.50	B	0	NA	NA		8	
+ac92	1	1	P	0.40	1.25	S	1	NA	NA		7	
+ac92	2	1	P	0.40	1.25	S	1	NA	NA		7	
+ac92	3	1	P	0.45	1.40	S	1	NA	NA		7	
+ac93	1	1	I	0.50	0.50	B	0	NA	NA		6	
+ac93	2	1	I	0.45	0.45	B	0	NA	NA		6	
+ac93	3	1	I	0.45	0.45	B	0	NA	NA		6	
+ac94	1	1	I	0.50	0.50	B	0	NA	NA		7	
+ac94	2	1	I	0.50	0.50	B	0	NA	NA		7	
+ac94	3	1	I	0.55	0.55	B	0	NA	NA		7	
+ac95	1	1	P	0.35	2.10	S	0	NA	NA		7	
+ac95	2	1	P	0.40	2.40	S	0	NA	NA		7	
+ac95	3	1	P	0.45	2.55	S	0	NA	NA		7	
+ac98	1	1	I	0.55	0.55	B	0	NA	NA	very fainthed growth	8	rm
+ac98	2	1	I	0.50	0.50	B	0	NA	NA	very fainthed growth	8	rm
+ac98	3	1	I	0.55	0.55	B	0	NA	NA	very fainthed growth	8	rm
+ac40	1	1	NA	0.40	NA	NA	1	NA	NA		8-rep	
+ac40	2	1	NA	0.35	NA	NA	1	NA	NA		8-rep	
+ac40	3	1	NA	0.35	NA	NA	1	NA	NA		8-rep	
+ac55	1	1	NA	0.50	NA	NA	1	NA	NA		8-rep	
+ac55	2	1	NA	0.40	NA	NA	1	NA	NA		8-rep	
+ac55	3	1	NA	0.45	NA	NA	1	NA	NA		8-rep	
+ac98	1	1	NA	0.35	NA	NA	1	NA	NA		8-rep	
+ac98	2	1	NA	0.35	NA	NA	1	NA	NA		8-rep	
+ac98	3	1	NA	0.45	NA	NA	1	NA	NA		8-rep	
+ac1	1	1	I	0.50	0.50	B	0	NA	NA		8-rep	
+ac1	2	1	I	0.50	0.50	B	0	NA	NA		8-rep	
+ac1	3	1	I	0.50	0.50	B	0	NA	NA		8-rep	
+ac22	1	1	NA	0.50	NA	NA	1	NA	NA		8-rep	
+ac22	2	1	NA	0.45	NA	NA	1	NA	NA		8-rep	
+ac22	3	1	NA	0.45	NA	NA	1	NA	NA		8-rep	
+ac109	1.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac109	2.00	Y	no effect	0.4	NA	NA		NA	NA		1	
+ac109	3.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac11	1.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac11	2.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac11	3.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac16	1.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac16	2.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac16	3.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac34	1.00	Y	promotion	0.5	3.4	NA		NA	NA		1	
+ac34	2.00	Y	promotion	0.4	3.4	NA		NA	NA		1	
+ac34	3.00	Y	promotion	0.5	3.4	NA		NA	NA		1	
+ac46	1.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac46	2.00	Y	no effect	0.4	NA	NA		NA	NA		1	
+ac46	3.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac61	1.00	Y	promotion	0.5	3.6	NA		NA	NA		1	
+ac61	2.00	Y	promotion	0.5	3.6	NA		NA	NA		1	
+ac61	3.00	Y	promotion	0.5	3.5	NA		NA	NA		1	
+ac72	1.00	Y	no effect	0.4	NA	NA		NA	NA		1	
+ac72	2.00	Y	no effect	0.4	NA	NA		NA	NA		1	
+ac72	3.00	Y	no effect	0.4	NA	NA		NA	NA		1	
+ac77	1.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac77	2.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac77	3.00	Y	no effect	0.4	NA	NA		NA	NA		1	
+ac82	1.00	Y	promotion	0.5	3.5	NA		NA	NA		1	
+ac82	2.00	Y	promotion	0.5	3.4	NA		NA	NA		1	
+ac82	3.00	Y	promotion	0.5	3.5	NA		NA	NA		1	
+ac96	1.00	Y	promotion	0.5	3.7	NA		NA	NA		1	
+ac96	2.00	Y	promotion	0.5	3.4	NA		NA	NA		1	
+ac96	3.00	Y	promotion	0.5	3.5	NA		NA	NA		1	
+ac97	1.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac97	2.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac97	3.00	Y	no effect	0.5	NA	NA		NA	NA		1	
+ac99	1.00	Y	promotion	0.5	3	NA		NA	NA		1	
+ac99	2.00	Y	promotion	0.5	2.5	NA		NA	NA		1	
+ac99	3.00	Y	promotion	0.5	3	NA		NA	NA		1	
+ac10	1.00	Y	0	0.60	NA	NA	no data	NA	NA		2.00	
+ac10	2.00	Y	0	0.60	NA	NA	no data	NA	NA		2.00	
+ac10	3.00	Y	0	0.50	NA	NA	no data	NA	NA		2.00	
+ac104	1.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac104	2.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac104	3.00	Y	0	0.60	NA	NA	growth	NA	NA		2.00	
+ac116	1.00	Y	promotion	0.40	2.40	NA	no data	NA	NA		2.00	
+ac116	2.00	Y	promotion	0.40	2.50	NA	no data	NA	NA		2.00	
+ac116	3.00	Y	promotion	0.30	2.4	NA	no data	NA	NA		2.00	
+ac12	1.00	Y	0	0.60	NA	NA	growth	NA	NA		2.00	
+ac12	2.00	Y	0	0.60	NA	NA	growth	NA	NA		2.00	
+ac12	3.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac19	1.00	Y	promotion	0.5	3.00	NA	no data	NA	NA	bacterium overgrew Zymo	2.00	
+ac19	2.00	Y	promotion	0.4	2.50	NA	no data	NA	NA	bacterium overgrew Zymo	2.00	
+ac19	3.00	Y	promotion	0.4	2.1	NA	no data	NA	NA	bacterium overgrew Zymo	2.00	
+ac27	1.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac27	2.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac27	3.00	Y	0	0.60	NA	NA	growth	NA	NA		2.00	
+ac42	1.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac42	2.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac42	3.00	Y	0	0.60	NA	NA	growth	NA	NA		2.00	
+ac58	1.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac58	2.00	Y	0	0.60	NA	NA	growth	NA	NA		2.00	
+ac58	3.00	Y	0	0.70	NA	NA	growth	NA	NA		2.00	
+ac65	1.00	Y	promotion	0.70	3.50	NA	growth	NA	NA	bacterium overgrew Zymo	2.00	
+ac65	2.00	Y	promotion	0.60	3.10	NA	growth	NA	NA	bacterium overgrew Zymo	2.00	
+ac65	3.00	Y	promotion	0.60	2.9	NA	growth	NA	NA	bacterium overgrew Zymo	2.00	
+ac66	1.00	Y	promotion	0.40	2.00	NA	no data	NA	NA		2.00	
+ac66	2.00	Y	promotion	0.50	2.00	NA	no data	NA	NA		2.00	
+ac66	3.00	Y	promotion	0.40	1.9	NA	no data	NA	NA		2.00	
+ac8	1.00	Y	0	0.30	NA	NA	growth	NA	NA		2.00	
+ac8	2.00	Y	0	0.30	NA	NA	growth	NA	NA		2.00	
+ac8	3.00	Y	0	0.40	NA	NA	growth	NA	NA		2.00	
+ac9	1.00	Y	promotion	0.80	3.50	NA	no data	NA	NA	bacterium overgrew ZYmo	2.00	
+ac9	2.00	Y	promotion	0.80	3.70	NA	no data	NA	NA	bacterium overgrew ZYmo	2.00	
+ac9	3.00	Y	promotion	0.50	2.9	NA	no data	NA	NA	bacterium overgrew ZYmo	2.00	
+ac103	1.00	Y	inhibiton	0.50	1.10	weak	no growth	contact zone	NA		3.00	
+ac103	2.00	Y	inhibition	0.50	1.20	weak	no growth	contact zone	NA		3.00	
+ac103	3.00	Y	inhibition	0.40	1.1	weak	no growth	contact zone	NA		3.00	
+ac110	1.00	Y	inhibition	0.30	0.90	weak	growth	NA	NA		3.00	
+ac110	2.00	Y	inhibition	0.30	0.90	weak	growth	NA	NA		3.00	
+ac110	3.00	Y	inhibition	0.40	0.9	weak	growth	NA	NA		3.00	
+ac117	1.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac117	2.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac117	3.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac120	1.00	Y	promotion	0.40	0.70	NA	growth	NA	NA		3.00	
+ac120	2.00	Y	promotion	0.30	0.60	NA	growth	NA	NA		3.00	
+ac120	3.00	Y	promotion	0.40	0.7	NA	growth	NA	NA		3.00	
+ac26	1.00	Y	promotion	0.30	1.60	NA	growth	NA	NA	bacterium overgrew Zymo	3.00	
+ac26	2.00	Y	promotion	0.30	1.40	NA	growth	NA	NA	bacterium overgrew Zymo	3.00	
+ac26	3.00	Y	promotion	0.30	1.3	NA	growth	NA	NA	bacterium overgrew Zymo	3.00	
+ac30	1.00	Y	promotion	0.40	1.10	NA	growth	NA	NA	bacterium overgrew Zymo	3.00	
+ac30	2.00	Y	promotion	0.30	0.90	NA	growth	NA	NA	bacterium overgrew Zymo	3.00	
+ac30	3.00	Y	promotion	0.40	1.4	NA	growth	NA	NA	bacterium overgrew Zymo	3.00	
+ac37	1.00	Y	inhibition	0.40	0.80	weak	growth	NA	NA		3.00	
+ac37	2.00	Y	inhibition	0.40	0.60	weak	growth	NA	NA		3.00	
+ac37	3.00	y	inhibition	0.40	0.50	weak	growth	NA	NA		3.00	
+ac41	1.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac41	2.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac41	3.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac47	1.00	Y	promotion	0.30	0.50	NA	growth	NA	NA		3.00	
+ac47	2.00	Y	promotion	0.30	0.60	NA	growth	NA	NA		3.00	
+ac47	3.00	Y	promotion	0.30	0.5	NA	growth	NA	NA		3.00	
+ac48	1.00	Y	0	0.40	NA	NA	growth	NA	NA		3.00	
+ac48	2.00	Y	0	0.40	NA	NA	growth	NA	NA		3.00	
+ac48	3.00	Y	0	0.40	NA	NA	growth	NA	NA		3.00	
+ac62	1.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac62	2.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac62	3.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac75	1.00	Y	0	0.30	NA	NA	growth	NA	NA		3.00	
+ac75	2.00	Y	0	0.30	NA	NA	growth	NA	NA		3.00	
+ac75	3.00	y	0	0.40	NA	NA	growth	NA	NA		3.00	
+ac80	1.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac80	2.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac80	3.00	N	NA	NA	NA	NA	growth	NA	NA		3.00	
+ac87	1.00	Y	promotion	0.70	3.20	NA	growth	NA	NA		3.00	
+ac87	2.00	Y	promotion	0.60	2.30	NA	growth	NA	NA		3.00	
+ac87	3.00	Y	promotion	0.60	2.6	NA	growth	NA	NA		3.00	
+ac106	1.00	Y	promotion	0.4	1.30	NA	no growth	NA	NA		4.00	
+ac106	2.00	Y	promotion	0.40	1.30	NA	no growth	NA	NA		4.00	
+ac106	3.00	Y	promotion	0.4	1.2	NA	no growth	NA	NA		4.00	
+ac111	1.00	Y	promotion	0.4	1.40	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac111	2.00	Y	promotion	0.4	1.30	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac111	3.00	Y	promotion	0.4	1.2	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac14	1.00	Y	promotion	0.4	1.10	NA	no growth	NA	NA		4.00	
+ac14	2.00	Y	promotion	0.4	1.00	NA	no growth	NA	NA		4.00	
+ac14	3.00	Y	promotion	0.41	1.30	NA	no growth	NA	NA		4.00	
+ac31	1.00	Y	inhibition	0.5	0.50	NA	no growth	NA	NA		4.00	
+ac31	2.00	Y	inhibition	0.4	0.40	NA	no growth	NA	NA		4.00	
+ac31	3.00	Y	inhibition	0.40	0.40	NA	no growth	NA	NA		4.00	
+ac43	1.00	Y	promotion	0.4	1.50	NA	growth	NA	NA		4.00	
+ac43	2.00	Y	promotion	0.4	1.40	NA	growth	NA	NA		4.00	
+ac43	3.00	Y	promotion	0.4	1.50	NA	growth	NA	NA		4.00	
+ac44	1.00	Y	promotion	0.4	0.80	NA	growth	NA	NA		4.00	
+ac44	2.00	Y 	promotion	0.4	0.90	NA	growth	NA	NA		4.00	
+ac44	3.00	Y	promotion	0.4	1.00	NA	growth	NA	NA		4.00	
+ac6	1.00	Y	promotion	0.4	1.00	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac6	2.00	Y	promotion	0.4	1.20	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac6	3.00	Y	promotion	0.4	1.3	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac67	1.00	Y	promotion	0.4	2.00	NA	growth	NA	NA		4.00	
+ac67	2.00	Y	promotion	0.4	1.90	NA	growth	NA	NA		4.00	
+ac67	3.00	Y	promotion	0.4	2	NA	growth	NA	NA		4.00	
+ac69	1.00	Y	no effect	0.4	NA	NA	growth	NA	NA		4.00	
+ac69	2.00	Y	no effect	0.4	NA	NA	growth	NA	NA		4.00	
+ac69	3.00	Y	no effect	0.4	NA	NA	growth	NA	NA		4.00	
+ac71	1.00	Y	no effect	0.4	NA	NA	growth	NA	NA		4.00	
+ac71	2.00	Y	no effect	0.4	NA	NA	growth	NA	NA		4.00	
+ac71	3.00	Y	no effect	0.4	NA	NA	growth	NA	NA		4.00	
+ac74	1.00	Y	promotion	0.4	2.30	NA	growth	NA	NA		4.00	
+ac74	2.00	Y	promotion	0.4	2.20	NA	growth	NA	NA		4.00	
+ac74	3.00	Y	promotion	0.4	2.4	NA	growth	NA	NA		4.00	
+ac79	1.00	Y	promotion	0.4	1.20	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac79	2.00	Y	promotion	0.4	1.20	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac79	3.00	Y	promotion	0.3	1.10	NA	growth	NA	NA	bacterium overgrew Zymo	4.00	
+ac83	1.00	Y	promotion	0.3	0.70	NA	growth	NA	NA		4.00	
+ac83	2.00	Y	promotion	0.4	0.80	NA	growth	NA	NA		4.00	
+ac83	3.00	Y	promotion	0.3	0.7	NA	growth	NA	NA		4.00	
+ac89	1.00	Y	promotion	0.4	1.20	NA	no growth	NA	NA		4.00	
+ac89	2.00	Y	promotion	0.4	1.30	NA	no growth	NA	NA		4.00	
+ac89	3.00	Y	promotion	0.4	1.20	NA	no growth	NA	NA		4.00	
+ac107	1.00	Y	promotion	0.3	0.70	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac107	2.00	Y	promotion	0.4	1.90	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac107	3.00	Y	promotion	0.5	2.00	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac122	1.00	Y	promotion	0.3	1.20	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac122	2.00	Y	promotion	0.4	1.50	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac122	3.00	Y	promotion	0.4	1.2	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac50	1.00	Y	promotion	0.3	1.20	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac50	2.00	Y	promotion	0.3	1.70	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac50	3.00	Y	promotion	0.3	1.9	NA	growth	NA	NA	contamination on the plate	5.00	rm
+ac60	1.00	N	NA	NA	NA	NA	NA	NA	NA	contamination on the plate	5.00	rm
+ac60	2.00	N	NA	NA	NA	NA	NA	NA	NA	contamination on the plate	5.00	rm
+ac60	3.00	N	NA	NA	NA	NA	NA	NA	NA	contamination on the plate	5.00	rm
+ac81	1.00	Y	no effect	0.3	NA	NA	growth	NA	NA		5.00	
+ac81	2.00	Y	no effect	0.3	NA	NA	growth	NA	NA		5.00	
+ac81	3.00	Y	no effect	0.4	NA	NA	growth	NA	NA		5.00	
+ac105	1.00	Y	promotion	0.4	2.2	NA		NA	NA		5-rep	
+ac105	2.00	Y	promotion	0.5	2.3	NA		NA	NA		5-rep	
+ac105	3.00	Y	promotion	0.4	2.1	NA		NA	NA		5-rep	
+ac107	1.00	Y	promotion	0.4	1.2	NA		NA	NA	bact. overgrew zymo	5-rep	
+ac107	2.00	Y	promtion	0.3	1.8	NA		NA	NA	bact. overgrew zymo	5-rep	
+ac107	3.00	Y	promotion	0.3	1.4	NA		NA	NA	bact. overgrew zymo	5-rep	
+ac108	1.00	Y	promotion	0.4	2.3	NA		NA	NA		5-rep	
+ac108	2.00	Y	promotion	0.4	2.2	NA		NA	NA		5-rep	
+ac108	3.00	Y	promotion	0.4	2.1	NA		NA	NA		5-rep	
+ac122	1.00	Y	promotion	0.5	1	NA		NA	NA		5-rep	
+ac122	2.00	Y	promotion	0.5	0.9	NA		NA	NA		5-rep	
+ac122	3.00	Y	promotion	0.5	1	NA		NA	NA		5-rep	
+ac13	1.00	Y	promotion	0.4	2	NA		NA	NA		5-rep	
+ac13	2.00	Y	promotion	0.5	2.2	NA		NA	NA		5-rep	
+ac13	3.00	Y	promotion	0.4	2.2	NA		NA	NA		5-rep	
+ac33	1.00	Y	promotion	0.4	1.9	NA		NA	NA		5-rep	
+ac33	2.00	Y	promotion	0.4	2	NA		NA	NA		5-rep	
+ac33	3.00	Y	promotion	0.3	1.8	NA		NA	NA		5-rep	
+ac45	1.00	Y	promotion	0.4	1.9	NA		NA	NA		5-rep	
+ac45	2.00	Y	promotion	0.4	1.9	NA		NA	NA		5-rep	
+ac45	3.00	Y	promotion	0.4	1.9	NA		NA	NA		5-rep	
+ac50	1.00	N	NA	NA	NA	NA		NA	NA		5-rep	
+ac50	2.00	N	NA	NA	NA	NA		NA	NA		5-rep	
+ac50	3.00	N	NA	NA	NA	NA		NA	NA		5-rep	
+ac59	1.00	Y	promotion	0.5	2.3	NA		NA	NA		5-rep	
+ac59	2.00	Y	promotion	0.4	1.8	NA		NA	NA		5-rep	
+ac59	3.00	Y	promotion	0.4	2	NA		NA	NA		5-rep	
+ac60	1.00	N	NA	NA	NA	NA		NA	NA		5-rep	
+ac60	2.00	N	NA	NA	NA	NA		NA	NA		5-rep	
+ac60	3.00	N	NA	NA	NA	NA		NA	NA		5-rep	
+ac64	1.00	Y	promotion	0.3	1.9	NA		NA	NA		5-rep	
+ac64	2.00	Y	promotion	0.4	1.9	NA		NA	NA		5-rep	
+ac64	3.00	Y	promotion	0.4	1.9	NA		NA	NA		5-rep	
+ac73	1.00	Y	inhibition	0.4	0.4	NA		NA	NA		5-rep	
+ac73	2.00	Y	inhibition	0.4	0.4	NA		NA	NA		5-rep	
+ac73	3.00	Y	inhibition	0.4	0.4	NA		NA	NA		5-rep	
+ac88	1.00	Y	promotion	0.4	2	NA		NA	NA		5-rep	
+ac88	2.00	Y	promotion	0.4	2	NA		NA	NA		5-rep	
+ac88	3.00	Y	promotion	0.4	2.1	NA		NA	NA		5-rep	
+ac7	1.00	Y	no effect	0.3	NA	NA	NA	NA	NA		extra
+ac7	2.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac7	3.00	Y	no effect	0.3	NA	NA	NA	NA	NA		extra
+ac56	1.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac56	2.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac56	3.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac23	1.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac23	2.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac23	3.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac91	1.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac91	2.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac91	3.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac112	1.00	Y	no effect	0.45	NA	NA	NA	NA	NA		extra
+ac112	2.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+ac112	3.00	Y	no effect	0.4	NA	NA	NA	NA	NA		extra
+
